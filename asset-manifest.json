@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-qpm-search-app/static/css/main.d0a4a2c6.css",
+    "main.js": "/react-qpm-search-app/static/js/main.d437eacc.js",
+    "static/js/787.50d0f11d.chunk.js": "/react-qpm-search-app/static/js/787.50d0f11d.chunk.js",
+    "static/media/logo.svg": "/react-qpm-search-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-qpm-search-app/index.html",
+    "main.d0a4a2c6.css.map": "/react-qpm-search-app/static/css/main.d0a4a2c6.css.map",
+    "main.d437eacc.js.map": "/react-qpm-search-app/static/js/main.d437eacc.js.map",
+    "787.50d0f11d.chunk.js.map": "/react-qpm-search-app/static/js/787.50d0f11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a4a2c6.css",
+    "static/js/main.d437eacc.js"
+  ]
+}
